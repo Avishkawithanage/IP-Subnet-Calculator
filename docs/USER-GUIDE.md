@@ -6,6 +6,10 @@ IP Subnet Calculator works on IPv4 only. Everything runs in your browser and not
 
 Requires Node.js 18 or newer.
 
+**Windows shortcut:** double-click `start.bat`. It installs dependencies on the first run, starts the server and opens the browser at `http://localhost:5173`. Close its window to stop the app.
+
+Or from a terminal:
+
 ```bash
 npm install     # first time only
 npm run dev     # then open http://localhost:5173
